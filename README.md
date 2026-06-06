@@ -199,7 +199,7 @@
 #### Live Services
 
 - [PoolPulse](https://poolpulse.poolpulse.workers.dev) — x402-payable DeFi execution signals API on Base. CLMM slippage, MEV scoring, routing hints for 33 Uniswap V3 + Aerodrome pools. Built with Hono + x402/hono. Pay per call ($0.001–$0.25 USDC). ([OpenAPI](https://poolpulse.poolpulse.workers.dev/openapi.json), [Examples](https://github.com/HadiFrt20/poolpulse-agent-example))
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live: `https://intel.twzrd.xyz/mcp`
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live: `https://intel.twzrd.xyz/mcp`
 
 #### SDKs & Libraries
 
